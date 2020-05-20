@@ -6,6 +6,8 @@
     <Company>Richard Sloman LTD</Company>
     <PackageProjectUrl>https://github.com/CSharpHobo/SeleniumFramework</PackageProjectUrl>
     <RepositoryUrl>https://github.com/CSharpHobo/SeleniumFramework</RepositoryUrl>
+    <Product>RSSelenium Framework</Product>
+    <PackageId>RSSeleniumFramework</PackageId>
   </PropertyGroup>
 
   <ItemGroup>

@@ -15,7 +15,7 @@ namespace SeleniumFramework
             switch (browserType.Trim().ToLower())
             {
                 case "chrome":
-                    webDriver = new ChromeDriver();
+                    webDriver = new ChromeDriver(".");
                     break;
             }
         }
